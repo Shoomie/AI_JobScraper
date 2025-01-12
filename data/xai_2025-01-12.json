@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "time": "2025-01-12 09:14:10",
+            "total_jobs": 69,
+            "job_areas": {
+                "Data Center Operations": 14,
+                "Engineering": 17,
+                "Human Data": 8,
+                "Information Technology": 2,
+                "Operations": 1,
+                "People": 5,
+                "Product": 10,
+                "Research": 12
+            }
+        },
+        {
+            "time": "2025-01-12 09:43:11",
+            "total_jobs": 69,
+            "job_areas": {
+                "Data Center Operations": 14,
+                "Engineering": 17,
+                "Human Data": 8,
+                "Information Technology": 2,
+                "Operations": 1,
+                "People": 5,
+                "Product": 10,
+                "Research": 12
+            }
+        },
+        {
+            "time": "2025-01-12 09:50:17",
+            "total_jobs": 69,
+            "job_areas": {
+                "Data Center Operations": 14,
+                "Engineering": 17,
+                "Human Data": 8,
+                "Information Technology": 2,
+                "Operations": 1,
+                "People": 5,
+                "Product": 10,
+                "Research": 12
+            }
+        }
+    ]
+}
