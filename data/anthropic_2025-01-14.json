@@ -1,0 +1,232 @@
+{
+    "data": [
+        {
+            "time": "2025-01-14 07:42:52",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 08:00:03",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 09:00:05",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 12:13:57",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 13:00:02",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 14:00:05",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 15:00:05",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 16:00:03",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 17:00:03",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 18:00:05",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 11,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-14 19:00:03",
+            "total_jobs": 84,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 12,
+                "Research": 13,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 6
+            }
+        },
+        {
+            "time": "2025-01-14 20:00:02",
+            "total_jobs": 84,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 13,
+                "Research": 13,
+                "Sales": 13,
+                "Security": 6,
+                "Trust & Safety": 6
+            }
+        }
+    ]
+}

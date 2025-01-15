@@ -1,0 +1,42 @@
+{
+    "data": [
+        {
+            "time": "2025-01-13 14:26:39",
+            "total_jobs": 85,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 10,
+                "Research": 15,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-13 20:26:36",
+            "total_jobs": 84,
+            "job_areas": {
+                "Communications & Marketing": 9,
+                "Finance": 3,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 6,
+                "Leadership": 2,
+                "Legal": 3,
+                "People": 4,
+                "Policy, Societal Impacts and Frontier Red Team": 4,
+                "Product": 10,
+                "Research": 14,
+                "Sales": 14,
+                "Security": 6,
+                "Trust & Safety": 7
+            }
+        }
+    ]
+}
