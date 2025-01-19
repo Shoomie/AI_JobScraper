@@ -1,12 +1,12 @@
 {
     "data": [
         {
-            "time": "2025-01-15 09:10:42",
-            "total_jobs": 68,
+            "time": "2025-01-18 08:08:43",
+            "total_jobs": 69,
             "job_areas": {
                 "Data Center Operations": 14,
                 "Engineering": 17,
-                "Human Data": 7,
+                "Human Data": 8,
                 "Information Technology": 2,
                 "Operations": 1,
                 "People": 5,
@@ -15,12 +15,12 @@
             }
         },
         {
-            "time": "2025-01-15 09:37:43",
-            "total_jobs": 68,
+            "time": "2025-01-18 11:26:09",
+            "total_jobs": 69,
             "job_areas": {
                 "Data Center Operations": 14,
                 "Engineering": 17,
-                "Human Data": 7,
+                "Human Data": 8,
                 "Information Technology": 2,
                 "Operations": 1,
                 "People": 5,
@@ -29,12 +29,26 @@
             }
         },
         {
-            "time": "2025-01-15 15:28:45",
-            "total_jobs": 68,
+            "time": "2025-01-18 16:02:27",
+            "total_jobs": 69,
             "job_areas": {
                 "Data Center Operations": 14,
                 "Engineering": 17,
-                "Human Data": 7,
+                "Human Data": 8,
+                "Information Technology": 2,
+                "Operations": 1,
+                "People": 5,
+                "Product": 10,
+                "Research": 12
+            }
+        },
+        {
+            "time": "2025-01-18 18:10:13",
+            "total_jobs": 69,
+            "job_areas": {
+                "Data Center Operations": 14,
+                "Engineering": 17,
+                "Human Data": 8,
                 "Information Technology": 2,
                 "Operations": 1,
                 "People": 5,
