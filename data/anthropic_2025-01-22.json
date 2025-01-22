@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "time": "2025-01-22 09:52:19",
+            "total_jobs": 111,
+            "job_areas": {
+                "Communications & Marketing": 8,
+                "Data Science & Analytics": 1,
+                "Finance": 4,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 8,
+                "Leadership": 2,
+                "Legal": 4,
+                "People": 8,
+                "Policy, Societal Impacts and Frontier Red Team": 12,
+                "Product": 20,
+                "Research": 11,
+                "Sales": 20,
+                "Security": 5,
+                "Trust & Safety": 6
+            }
+        },
+        {
+            "time": "2025-01-22 10:23:50",
+            "total_jobs": 111,
+            "job_areas": {
+                "Communications & Marketing": 8,
+                "Data Science & Analytics": 1,
+                "Finance": 4,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 8,
+                "Leadership": 2,
+                "Legal": 4,
+                "People": 8,
+                "Policy, Societal Impacts and Frontier Red Team": 12,
+                "Product": 20,
+                "Research": 11,
+                "Sales": 20,
+                "Security": 5,
+                "Trust & Safety": 6
+            }
+        },
+        {
+            "time": "2025-01-22 16:37:22",
+            "total_jobs": 111,
+            "job_areas": {
+                "Communications & Marketing": 8,
+                "Data Science & Analytics": 1,
+                "Finance": 4,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 8,
+                "Leadership": 2,
+                "Legal": 4,
+                "People": 8,
+                "Policy, Societal Impacts and Frontier Red Team": 12,
+                "Product": 20,
+                "Research": 11,
+                "Sales": 20,
+                "Security": 5,
+                "Trust & Safety": 6
+            }
+        },
+        {
+            "time": "2025-01-22 16:38:12",
+            "total_jobs": 111,
+            "job_areas": {
+                "Communications & Marketing": 8,
+                "Data Science & Analytics": 1,
+                "Finance": 4,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 8,
+                "Leadership": 2,
+                "Legal": 4,
+                "People": 8,
+                "Policy, Societal Impacts and Frontier Red Team": 12,
+                "Product": 20,
+                "Research": 11,
+                "Sales": 20,
+                "Security": 5,
+                "Trust & Safety": 6
+            }
+        },
+        {
+            "time": "2025-01-22 20:35:48",
+            "total_jobs": 116,
+            "job_areas": {
+                "Communications & Marketing": 8,
+                "Data Science & Analytics": 2,
+                "Finance": 4,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 8,
+                "Leadership": 2,
+                "Legal": 4,
+                "People": 8,
+                "Policy, Societal Impacts and Frontier Red Team": 12,
+                "Product": 20,
+                "Research": 11,
+                "Sales": 20,
+                "Security": 8,
+                "Trust & Safety": 7
+            }
+        },
+        {
+            "time": "2025-01-22 21:08:48",
+            "total_jobs": 117,
+            "job_areas": {
+                "Communications & Marketing": 8,
+                "Data Science & Analytics": 2,
+                "Finance": 4,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 8,
+                "Leadership": 2,
+                "Legal": 4,
+                "People": 8,
+                "Policy, Societal Impacts and Frontier Red Team": 12,
+                "Product": 20,
+                "Research": 11,
+                "Sales": 20,
+                "Security": 9,
+                "Trust & Safety": 7
+            }
+        }
+    ]
+}
