@@ -1,3 +1,22 @@
-AI_JobScraper.py scrapes the three sites for current job listings, and appends to the data folder.
 
-plotter.py visualizes all data collected so far, with a proportional time axle.
+# Job Market Visualization
+
+This repository contains scripts to visualize job market data for Anthropic, OpenAI, and xAI.
+
+## Plots
+
+### Combined Total Jobs Over Time
+
+![Combined Total Jobs Plot](images/total_jobs_combined.png)
+
+### Anthropic Job Trends
+
+![Anthropic Job Trends](images/anthropic_job_trends.png)
+
+### OpenAI Job Trends
+
+![OpenAI Job Trends](images/openai_job_trends.png)
+
+### xAI Job Trends
+
+![xAI Job Trends](images/xai_job_trends.png)

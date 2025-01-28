@@ -6,14 +6,11 @@ import plotly.express as px
 from plotly.subplots import make_subplots
 import plotly.graph_objects as go
 
-def visualize_job_data(data_folder):
+def visualize_job_data(data_folder, output_folder="images"): # Added output_folder argument
     """
-    Visualizes job data for Anthropic, OpenAI, and xAI from JSON files, 
-    creating a combined plot for total jobs and separate plots for each company's job areas.
-
-    Args:
-        data_folder: The path to the folder containing JSON files.
+    Visualizes job data and saves plots as images in the output_folder.
     """
+    os.makedirs(output_folder, exist_ok=True) # Create output folder if it doesn't exist
 
     all_company_data = {}
     json_files = glob.glob(os.path.join(data_folder, "*.json"))
@@ -49,7 +46,12 @@ def visualize_job_data(data_folder):
     fig_total = px.line(df_combined_total_jobs, x="time", y="total_jobs", color="company",
                         title="Total Jobs Over Time for All Companies",
                         labels={"time": "Time", "total_jobs": "Total Jobs", "company": "Company"})
-    fig_total.show()
+
+    # Save combined total jobs plot
+    fig_total_filepath = os.path.join(output_folder, "total_jobs_combined.png") # Define filepath
+    fig_total.write_image(fig_total_filepath) # Save as PNG
+    print(f"Saved combined total jobs plot to: {fig_total_filepath}")
+
 
     # Create individual plots for each company
     for company, data in all_company_data.items():
@@ -80,9 +82,15 @@ def visualize_job_data(data_folder):
         fig.update_xaxes(title_text="Time", row=2, col=1)
         fig.update_yaxes(title_text="Number of Jobs", row=2, col=1)
         fig.update_layout(title_text=f"{company.capitalize()} Job Trends", showlegend=True)
-        fig.show()
+
+        # Save company-specific plot
+        fig_company_filepath = os.path.join(output_folder, f"{company}_job_trends.png") # Define filepath
+        fig.write_image(fig_company_filepath) # Save as PNG
+        print(f"Saved {company.capitalize()} job trends plot to: {fig_company_filepath}")
+
 
 if __name__ == "__main__":
     script_dir = os.path.dirname(__file__)
     data_folder_path = os.path.join(script_dir, "data")
-    visualize_job_data(data_folder_path)
+    output_images_folder = "images" # Folder to save images
+    visualize_job_data(data_folder_path, output_images_folder)
