@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "time": "2025-01-27 10:03:48",
+            "total_jobs": 215,
+            "job_areas": {
+                "Sales": 4,
+                "Executive Operations": 2,
+                "Intelligence & Investigations": 4,
+                "Legal": 5,
+                "Applied AI Engineering": 32,
+                "Growth": 4,
+                "User Operations": 11,
+                "Leverage Engineering": 3,
+                "Revenue Operations": 8,
+                "IT": 4,
+                "Security": 6,
+                "Finance": 13,
+                "Corporate Security": 1,
+                "Data Science": 2,
+                "Product Policy": 1,
+                "Developer Experience": 1,
+                "Technical Success": 22,
+                "Partnerships": 2,
+                "Sora": 2,
+                "Customer Success": 2,
+                "Foundations": 7,
+                "Platform": 13,
+                "Human Data": 3,
+                "Communications": 2,
+                "Supercomputing": 3,
+                "Go To Market": 2,
+                "Applied AI": 4,
+                "Strategic Finance": 10,
+                "Product Management": 4,
+                "Post-training": 13,
+                "New Product Explorations": 2,
+                "AI Scientist": 1,
+                "Safety Systems": 6,
+                "Applied AI Infrastructure": 5,
+                "Research": 3,
+                "Multimodal": 2,
+                "Alignment": 2,
+                "Training": 2,
+                "People": 2
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "time": "2025-01-26 10:16:31",
+            "total_jobs": 65,
+            "job_areas": {
+                "Data Center Operations": 12,
+                "Engineering": 17,
+                "Human Data": 8,
+                "Information Technology": 2,
+                "Operations": 1,
+                "People": 3,
+                "Product": 10,
+                "Research": 12
+            }
+        }
+    ]
+}
