@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "time": "2025-01-30 11:47:29",
+            "total_jobs": 137,
+            "job_areas": {
+                "Communications & Marketing": 8,
+                "Data Science & Analytics": 1,
+                "Finance": 9,
+                "Infrastructure": 2,
+                "Large Language Model Organization": 9,
+                "Leadership": 2,
+                "Legal": 4,
+                "People": 8,
+                "Policy, Societal Impacts and Frontier Red Team": 14,
+                "Product": 23,
+                "Research": 16,
+                "Safeguards": 6,
+                "Sales": 21,
+                "Security": 14
+            }
+        }
+    ]
+}
