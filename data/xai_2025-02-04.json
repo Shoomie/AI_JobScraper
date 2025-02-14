@@ -13,6 +13,34 @@
                 "People": 3,
                 "Product": 9
             }
+        },
+        {
+            "time": "2025-02-04 21:49:58",
+            "total_jobs": 52,
+            "job_areas": {
+                "Data Center Operations": 12,
+                "Engineering": 17,
+                "Human Data": 7,
+                "Information Security": 1,
+                "Information Technology": 2,
+                "Operations": 1,
+                "People": 3,
+                "Product": 9
+            }
+        },
+        {
+            "time": "2025-02-04 21:52:42",
+            "total_jobs": 52,
+            "job_areas": {
+                "Data Center Operations": 12,
+                "Engineering": 17,
+                "Human Data": 7,
+                "Information Security": 1,
+                "Information Technology": 2,
+                "Operations": 1,
+                "People": 3,
+                "Product": 9
+            }
         }
     ]
 }

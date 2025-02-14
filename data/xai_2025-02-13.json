@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "time": "2025-02-13 21:32:52",
+            "total_jobs": 49,
+            "job_areas": {
+                "Data Center Operations": 13,
+                "Engineering": 17,
+                "Finance": 2,
+                "Human Data": 8,
+                "Information Security": 1,
+                "Information Technology": 2,
+                "Operations": 1,
+                "People": 5
+            }
+        }
+    ]
+}
